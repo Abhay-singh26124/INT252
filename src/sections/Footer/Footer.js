@@ -35,7 +35,7 @@ const Footer = () => {
     const footerContacts = [
         {
             'title': 'Phone Number',
-            'info': '+088 123 654 987',
+            'info': '9388 123 654',
             'icon': call
         },
         {
@@ -45,7 +45,7 @@ const Footer = () => {
         },
         {
             'title': 'Clinic Address',
-            'info': '35 West Dental Street California 1004',
+            'info': 'Lovely professional University',
             'icon': location
         }
     ]

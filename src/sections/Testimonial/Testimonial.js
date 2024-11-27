@@ -14,19 +14,19 @@ const Testimonial = () => {
         {
             'img': imgOne,
             'name': 'Robert Fox',
-            'description' : 'Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts',
+            'description' : 'I had a root canal done here, and I was really nervous. But the team was caring, and the procedure was virtually pain-free.',
             'ratings':[<AiFillStar/>,<AiFillStar/>,<AiFillStar/>,<AiFillStar/>,<AiFillStar/>]
         },
         {
             'img': imgTwo,
             'name': 'Albert Flores',
-            'description' : 'Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts',
+            'description' : 'A fantastic experience from start to finish. The staff is friendly, the office is welcoming, and the treatment was painless. I’ve finally found my go-to dentist!',
             'ratings':[<AiFillStar/>,<AiFillStar/>,<AiFillStar/>,<AiFillStar/>,<AiFillStar/>]
         },
         {
             'img': imgThree,
             'name': 'Bessie Cooper',
-            'description' : 'Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts',
+            'description' : 'I’ve been coming here for years, and I trust Dentalist with my entire family’s dental care. The team is always kind and makes us feel comfortable every visit',
             'ratings':[<AiFillStar/>,<AiFillStar/>,<AiFillStar/>,<AiFillStar/>,<AiFillStar/>]
         },
         {
@@ -80,7 +80,7 @@ const Testimonial = () => {
                         />
                     </div>
                     <div className="col-lg-6">
-                        <p className="pt-5">Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts </p>
+                        <p className="pt-5">we are proud to have helped countless patients achieve healthier, more confident smiles. But don’t just take our word for it—read what our patients have to say about their experiences with us!</p>
                     </div>
                 </div>
 

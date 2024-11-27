@@ -43,7 +43,7 @@ const Symptoms = () => {
                 <SectionTitle 
                     subTitle="Symptoms"
                     title="Sign and symptoms you need root canal"
-                    description="Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups."
+                    description="A root canal is a common and effective treatment for saving a damaged or infected tooth. If you experience any of the following symptoms, it may be time to consult your dentist about a root canal procedure:"
                 />
 
                 <div className="row">

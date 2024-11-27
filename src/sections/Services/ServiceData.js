@@ -7,22 +7,22 @@ const ServicesData = [
     {
         'icon': iconOne,
         'title': 'Dentures',
-        'description': 'Lorem ipsum is placeholder text commonly used in the graphic,',
+        'description': 'Our high-quality dentures are designed to restore functionality, improve aesthetics, and enhance your quality of life.',
     },
     {
         'icon': iconTwo,
         'title': 'Implants',
-        'description': 'Lorem ipsum is placeholder text commonly used in the graphic,',
+        'description': 'Our implants provide a permanent and durable solution that blends seamlessly with your natural teeth.',
     },
     {
         'icon': iconThree,
         'title': 'Whitening',
-        'description': 'Lorem ipsum is placeholder text commonly used in the graphic,',
+        'description': 'Our professional whitening services provide safe, effective, and long-lasting results.',
     },
     {
         'icon': iconFour,
         'title': 'Root Canal',
-        'description': 'Lorem ipsum is placeholder text commonly used in the graphic,',
+        'description': 'A root canal can eliminate the discomfort and prevent further damage, allowing you to keep your natural tooth for years to come.',
     }
 ]
 

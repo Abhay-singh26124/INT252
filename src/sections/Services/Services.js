@@ -16,7 +16,7 @@ const Services = () => {
                         <SectionTitle title="Feel amazing about your oral health" subTitle="Services"/>
                     </div>
                     <div className="col-lg-6 col-sm-6">
-                        <p className='service-title-text'>Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.</p>
+                        <p className='service-title-text'>we’re proud to offer a full spectrum of dental services designed to meet the unique needs of every patient. From preventive care to cosmetic enhancements, our expert team ensures your oral health and confidence are in the best hands..</p>
                     </div>
                 </div>
 

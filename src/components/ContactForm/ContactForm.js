@@ -9,7 +9,7 @@ const ContactForm = () => {
                 <div className="col-lg-6">
                     <div class="form-group">
                         <label>Name</label>
-                        <input type="email" class="form-control" placeholder="Enter your name..." />
+                        <input type="name" class="form-control" placeholder="Enter your name..." />
                     </div>
                 </div>
                 <div className="col-lg-6">
@@ -23,9 +23,9 @@ const ContactForm = () => {
                         <label>Service</label>
                         <select class="form-control">
                             <option>Teeth Whitening</option>
-                            <option>Teeth Whitening</option>
-                            <option>Teeth Whitening</option>
-                            <option>Teeth Whitening</option>
+                            <option>Teeth Cleaning</option>
+                            <option>Implants</option>
+                            <option>Composite Bonding</option>
                         </select>
                     </div>
                 </div>
@@ -33,10 +33,10 @@ const ContactForm = () => {
                     <div class="form-group">
                         <label>Department</label>
                         <select class="form-control">
-                            <option>Select Department</option>
-                            <option>Select Department</option>
-                            <option>Select Department</option>
-                            <option>Select Department</option>
+                            <option>Orthodontics</option>
+                            <option>Endodontics</option>
+                            <option>Prosthodontist</option>
+                            <option>Cosmetic dentistry</option>
                         </select>
                     </div>
                 </div>
@@ -57,7 +57,7 @@ const ContactForm = () => {
                         </div>
                         <div className='call-text'>
                             <p>Dental 24H Emergency</p>
-                            <h6>03 482 394 123</h6>
+                            <h6>93 482 394 12</h6>
                         </div>
                     </div>
                 </div>

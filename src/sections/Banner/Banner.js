@@ -21,7 +21,7 @@ const Banner = () => {
                             <div className="col-lg-6">
                                 <div className="banner-text" data-aos="fade-up" data-aos-duration="2000">
                                     <h1>Entrust your smile to professionals</h1>
-                                    <p>Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.</p>
+                                    <p>With a patient-first approach, we offer personalized dental solutions in a welcoming and stress-free environment. Our goal is not just to enhance your oral health but to build lasting relationships founded on trust and quality care.</p>
 
                                     <div className="banner-bottom">
                                         <div className="theme-btn">
@@ -34,7 +34,7 @@ const Banner = () => {
                                             </div>
                                             <div className='call-text'>
                                                 <p>Dental 24H Emergency</p>
-                                                <h6>03 482 394 123</h6>
+                                                <h6>93 482 394 12</h6>
                                             </div>
                                         </div>
                                     </div>
